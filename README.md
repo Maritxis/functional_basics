@@ -6,3 +6,7 @@ These are examples for running at a node console. So if you want to execute them
     node curry.js
 ```
 Where ```curry.js``` can be any of the exercise files names.
+
+[The talk is here](https://www.youtube.com/watch?time_continue=1&v=airhhD-KiGo)
+
+[And the slides here](https://slides.com/henarhernandez/deck)
